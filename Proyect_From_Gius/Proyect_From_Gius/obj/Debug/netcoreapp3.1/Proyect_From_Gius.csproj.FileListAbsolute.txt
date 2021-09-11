@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\bin\Debug\netcoreapp3.1\Proyect_From_Gius.exe
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\bin\Debug\netcoreapp3.1\Proyect_From_Gius.deps.json
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\bin\Debug\netcoreapp3.1\Proyect_From_Gius.runtimeconfig.json
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\bin\Debug\netcoreapp3.1\Proyect_From_Gius.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\bin\Debug\netcoreapp3.1\Proyect_From_Gius.dll
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\bin\Debug\netcoreapp3.1\Proyect_From_Gius.pdb
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.dll
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.pdb
+C:\Users\Usuario\Downloads\Folder de Giuseppi\Proyect_From_Gius\Proyect_From_Gius\obj\Debug\netcoreapp3.1\Proyect_From_Gius.genruntimeconfig.cache
